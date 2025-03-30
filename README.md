@@ -1,4 +1,4 @@
-## there! I'm **[Your Name]** 👋  
+## there! I'm **[Aleks]** 👋  
 A creative developer who loves blending code with art to craft mesmerizing projects. My passion is to build solutions that are not only functional but also visually stunning.
 
 > "Stay curious, keep coding, and never stop dreaming!" – Yours truly
@@ -34,13 +34,19 @@ A creative developer who loves blending code with art to craft mesmerizing proje
 ---
 
 ## GitHub Stats
-
+/*
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AleksZieba&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
 </div>
-
+*/
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksZieba&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleksZieba&theme=tokyonight" alt="GitHub Streak Stats" />
+</div> 
+<div align="center">
+  <img src="https://github-contributions.vercel.app/api?username=AleksZieba&theme=tokyonight" alt="GitHub Contributions" />
 </div>
 
 ---
