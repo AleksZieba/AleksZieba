@@ -37,8 +37,8 @@
 </div>
 --> 
 <div align="center">
-  <img width="47%" height="200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/AleksZieba?cardType=github&theme=radical&preferLogin=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksZieba&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height='180em' src="https://awesome-github-stats.azurewebsites.net/user-stats/AleksZieba?cardType=github&theme=radical&preferLogin=false" />
+  <img height='180em'src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksZieba&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div> 
 <!--
 <div align="center">
@@ -48,17 +48,22 @@
   <img src="https://github-contributions.vercel.app/api?username=AleksZieba&theme=tokyonight" alt="GitHub Contributions" />
 </div>
 -->
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleksZieba/AleksZieba/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleksZieba/AleksZieba/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/AleksZieba/AleksZieba/output/snake.svg" alt="Snake animation" />
-
-###
 ## Projects & Contributions
+Right now I am working on:
 
-I love pushing the boundaries of creativity and technology! Check out some of my featured projects:
+- [**Project One**](https://github.com/AleksZieba/sprint-boss) 🚀
+  A replacement for one the most popular bot for writers on Discord which will bring gamification to the writing experience!
+- [**Project Two**](https://github.com/AleksZieba/webcrawler-js) 🎨
+  A webcrawler I am modifying to practice connecting Docker containers to shared volumes.
+  
+Recently I have completed: 
 
-- [**Project One**](https://github.com/YOUR_GITHUB_USERNAME/ProjectOne) 🚀
-- [**Project Two**](https://github.com/YOUR_GITHUB_USERNAME/ProjectTwo) 🎨
 - [**Project Three**](https://github.com/YOUR_GITHUB_USERNAME/ProjectThree) 💡
 
 Explore my repositories for more innovative and experimental projects!
