@@ -37,7 +37,7 @@
 </div>
 --> 
 <div align="center">
-  <img height='180em' src="https://awesome-github-stats.azurewebsites.net/user-stats/AleksZieba?cardType=github&theme=radical&preferLogin=false" />
+  <img height='180em' src="https://awesome-github-stats.azurewebsites.net/user-stats/AleksZieba?cardType=github&theme=tokyonight&preferLogin=false" />
   <img height='180em'src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksZieba&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div> 
 <!--
@@ -51,22 +51,23 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleksZieba/AleksZieba/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleksZieba/AleksZieba/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AleksZieba/AleksZieba/output/github-snake.svg" />
 </picture>
 
 ## Projects & Contributions
 Right now I am working on:
 
-- [**Project One**](https://github.com/AleksZieba/sprint-boss) 🚀
-  A replacement for one the most popular bot for writers on Discord which will bring gamification to the writing experience!
-- [**Project Two**](https://github.com/AleksZieba/webcrawler-js) 🎨
-  A webcrawler I am modifying to practice connecting Docker containers to shared volumes.
+- [**Sprint-Boss**](https://github.com/AleksZieba/sprint-boss) 🚀
+  A replacement for one the most popular bots for writers on Discord, which will gamify the writing experience!
+- [**Webcrawler-JS**](https://github.com/AleksZieba/webcrawler-js) 🎨
+  A containerized webcrawler that writes to a shared Docker volume. 
   
 Recently I have completed: 
 
-- [**Project Three**](https://github.com/YOUR_GITHUB_USERNAME/ProjectThree) 💡
-
-Explore my repositories for more innovative and experimental projects!
+- [**Gator**](https://github.com/AleksZieba/gator) 💡
+  A CLI blog aggregator built in Golang!
+- [**Mazie**](https://github.com/AleksZieba/mazie) 🪄
+  An animated procedural maze generator and solver written in Python.
 
 ---
 
