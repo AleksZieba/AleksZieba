@@ -1,7 +1,4 @@
-## there! I'm **[Aleks]** 👋  
-A creative developer who loves blending code with art to craft mesmerizing projects. My passion is to build solutions that are not only functional but also visually stunning.
-
-> "Stay curious, keep coding, and never stop dreaming!" – Yours truly
+# Hi there! I'm **Aleks** 👋  
 
 ---
 
@@ -34,23 +31,28 @@ A creative developer who loves blending code with art to craft mesmerizing proje
 ---
 
 ## GitHub Stats
-/*
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AleksZieba&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
 </div>
-*/
+--> 
 <div align="center">
+  <img width="47%" height="200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/AleksZieba?cardType=github&theme=radical&preferLogin=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksZieba&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+</div> 
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleksZieba&theme=tokyonight" alt="GitHub Streak Stats" />
 </div> 
 <div align="center">
   <img src="https://github-contributions.vercel.app/api?username=AleksZieba&theme=tokyonight" alt="GitHub Contributions" />
 </div>
+-->
+<br clear="both">
 
----
-/*
+<img src="https://raw.githubusercontent.com/AleksZieba/AleksZieba/output/snake.svg" alt="Snake animation" />
+
+###
 ## Projects & Contributions
 
 I love pushing the boundaries of creativity and technology! Check out some of my featured projects:
@@ -62,7 +64,7 @@ I love pushing the boundaries of creativity and technology! Check out some of my
 Explore my repositories for more innovative and experimental projects!
 
 ---
-*/
+
 ## Connect With Me
 
 <div align="center">
