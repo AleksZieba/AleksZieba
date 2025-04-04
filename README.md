@@ -42,8 +42,8 @@
 </div>
 --> 
 <div align="center">
-  <img height='220em' src="https://awesome-github-stats.azurewebsites.net/user-stats/AleksZieba?cardType=github&theme=radical&preferLogin=false" /> 
-  <img height='220em'src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksZieba&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+  <img height='220em' src="https://awesome-github-stats.azurewebsites.net/user-stats/AleksZieba?cardType=github&theme=dark&preferLogin=false" /> 
+  <img height='220em'src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksZieba&layout=compact&theme=dark&langs_count=10" alt="Top Languages" />
 </div> 
 <!--
 <div align="center">
