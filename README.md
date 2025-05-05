@@ -65,12 +65,11 @@
 
 ## Projects & Contributions
 
-My favorite project - [dndgamegen.com](https://dndgamegen.com/):
+My favorite project - [**dndgamegen.com**](https://dndgamegen.com/) 🎮:
 
-- [**DND-AI-Generators-Frontend**](https://github.com/AleksZieba/dnd-ai-generators-frontend)
+- [**DND-AI-Generators-Frontend**](https://github.com/AleksZieba/dnd-ai-generators-frontend) 🏹
   The React frontend for AI-powered DND item and NPC generators and more!
-  **&** 
-- [**DND-AI-Generators-Backend**](https://github.com/AleksZieba/dnd-ai-generators-backend) 
+- [**DND-AI-Generators-Backend**](https://github.com/AleksZieba/dnd-ai-generators-backend) 🎯
   The backend API for my website which formats, sends, and recieves prompts from Google Gemini and OpenAi LLMs.
   
 Right now I am working on:
