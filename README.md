@@ -6,9 +6,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Boost-009CE0?style=for-the-badge&logo=boost&logoColor=white" alt="Boost"> 
-  <img src="https://img.shields.io/badge/GoogleTest-00C6D0?style=for-the-badge&logo=googletest&logoColor=white" alt="GoogleTest"> 
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
+  <img src="https://img.shields.io/badge/GoogleTest-00C6D0?style=for-the-badge&logo=googletest&logoColor=white" alt="GoogleTest"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js"> 
