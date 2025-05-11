@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
   <img src="https://img.shields.io/badge/GoogleTest-00C6D0?style=for-the-badge&logo=googletest&logoColor=white" alt="GoogleTest"> 
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js"> 
@@ -19,12 +20,16 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python"> 
   <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/PyUnit-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyUnit">
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=fff" alt="Golang"> 
   <img src="https://img.shields.io/badge/Go%20Chi-5A0FC8?style=for-the-badge&logo=go&logoColor=fff" alt="Go Chi"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> 
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"> 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">  
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET">
+  <img src="https://img.shields.io/badge/Entity%20Framework-563D7C?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework">
+  <img src="https://img.shields.io/badge/xUnit- B3001B?style=for-the-badge&logo=xunit&logoColor=white" alt="xUnit">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=fff" alt="GCP">
@@ -46,8 +51,8 @@
 </div>
 --> 
 <div align="center">
-  <img height='235em' src="https://awesome-github-stats.azurewebsites.net/user-stats/AleksZieba?cardType=github&theme=gruvbox&preferLogin=false" /> 
-  <img height='235em'src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksZieba&layout=compact&theme=gruvbox&langs_count=12" alt="Top Languages" />
+  <img height='235em' src="https://awesome-github-stats.azurewebsites.net/user-stats/AleksZieba?cardType=github&theme=tokyonight&preferLogin=false" /> 
+  <img height='235em'src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksZieba&layout=compact&theme=tokyonight&langs_count=12" alt="Top Languages" />
 </div> 
 <!--
 <div align="center">
