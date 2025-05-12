@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/xUnit- B3001B?style=for-the-badge&logo=xunit&logoColor=white" alt="xUnit"> 
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"> 
   <img src="https://img.shields.io/badge/Azure%20CosmosDB-0089D6?style=for-the-badge&logo=azure-cosmos-db&logoColor=white" alt="Azure Cosmos DB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/T-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=fff" alt="GCP">
