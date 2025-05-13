@@ -92,9 +92,7 @@ Recently I have completed:
 
 - [**Gator**](https://github.com/AleksZieba/gator) 💡
   A CLI blog aggregator built in Golang!
-- [**Mazie**](https://github.com/AleksZieba/mazie) 🪄
-  An animated procedural maze generator and solver written in Python.
-
+  
 ---
 
 ## Connect With Me
